@@ -1,1 +1,0 @@
-A specialized web app for predicting heart disease ❤️, breast cancer 🎗️, diabetes 🍬, blood pressure issues 💉, COVID-19 🦠, and assessing BMI status ⚖️.
