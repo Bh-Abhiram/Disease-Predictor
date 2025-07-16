@@ -1,2 +1,1 @@
-A web-based disease prediction system that utilizes multiple input fields for various diseases.
-
+A specialized web app for predicting heart disease ❤️, breast cancer 🎗️, diabetes 🍬, blood pressure issues 💉, COVID-19 🦠, and assessing BMI status ⚖️.
